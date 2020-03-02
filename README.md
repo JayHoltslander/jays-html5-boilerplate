@@ -4,14 +4,14 @@ A Sublime Text 2/3 snippet to generate an HTML5 Boilerplate template that includ
 
 ## Install
 
-### Manual install
+### A. Manual install
 
 Copy the files to your Packages directory. 
 On a Mac in Finder this is located at: ``~/Library/Application Support/Sublime Text 3/Packages/User/``. In the Terminal the path is ``~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/``
 
-<!-- ### Package Control install
+### ~~B. Package Control install~~
 
-In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'HTML Boilerplate' then press enter to install. -->
+~~In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'Jay's Sublime HTML5 Boilerplate' then press enter to install.~~
 
 ## Usage
 
