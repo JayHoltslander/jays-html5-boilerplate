@@ -1,4 +1,4 @@
-# Jay's Sublime HTML5 Boilerplate
+# Jay's HTML5 Boilerplate
 
 A Sublime Text 2/3 snippet to generate an HTML5 Boilerplate template that includes Bootstrap.
 
