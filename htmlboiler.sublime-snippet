@@ -38,6 +38,6 @@
     </body>
 </html>
 ]]></content>
-    <tabTrigger>htmlboiler</tabTrigger>
+    <tabTrigger>!html</tabTrigger>
     <scope>text.html</scope>
 </snippet>
