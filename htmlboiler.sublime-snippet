@@ -9,20 +9,16 @@
         <title>${1}</title>
         <meta property="og:title" content="${1}">
         <meta name="description" content="${2}">
-				<meta property="og:description" content="${2}">
-				<meta property="og:image" content="/opengraph.jpg">
-				<meta property="og:url" content="${3}">
-				<meta name="twitter:card" content="summary_large_image">
-				<meta name="twitter:site" content="@${4}">
+	<meta property="og:description" content="${2}">
+	<meta property="og:image" content="/opengraph.jpg">
+	<meta property="og:url" content="${3}">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@${4}">
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="icon.png">
-				<link rel="canonical" href="${3}">
-        <!-- Place favicon.ico in the root directory -->
-
+	<link rel="canonical" href="${3}">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-				
-				<meta name="theme-color" content="#fafafa">
-
+	<meta name="theme-color" content="#fafafa">
     </head>
     <body>
         <!--[if lte IE 9]>
@@ -32,12 +28,12 @@
         <![endif]-->
 
         <div class="container">
-        	<h1>Hello world!</h1>
-        	<p>This is Jay's HTML5 Boilerplate. It's using Bootstrap v4</p>
+		<h1>Hello world!</h1>
+		<p>This is Jay's HTML5 Boilerplate. It's using Bootstrap v4</p>
         </div>
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-				<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-				<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
         <!-- GOOGLE ANALYTICS: CHANGE UA-XXXXX-Y TO BE YOUR SITE'S ID -->
         <script>
