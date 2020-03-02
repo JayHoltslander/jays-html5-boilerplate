@@ -14,11 +14,7 @@ In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to 
 
 ## Usage
 
-With a blank saved HTML file open, type
-
-    !html
-
-and press `TAB`.
+With a blank saved HTML file open, type ``!html`` and press `TAB`.
 
 
 ## License 
